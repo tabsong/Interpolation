@@ -1,10 +1,3 @@
-//
-//  MAMediaTimingFunction.h
-//  MapKit_static
-//
-//  Created by songjian on 13-2-4.
-//  Copyright (c) 2013年 songjian. All rights reserved.
-//
 
 #import <Foundation/Foundation.h>
 
